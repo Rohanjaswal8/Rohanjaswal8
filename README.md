@@ -26,9 +26,7 @@
  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
  </a> 
- <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
- </a> 
+ 
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
  </a> 
@@ -50,9 +48,7 @@
  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
    <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="aws" width="40" height="40"/> 
  </a> 
- <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> 
-   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
- </a> 
+ 
  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> 
    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
  </a> 
@@ -61,10 +57,6 @@
  </a> 
 </p>
 
-<h2>Rohan's GitHub Stats </h2> 
-
-### Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=Rohanjaswal8&theme=radical)
 
 # GitHub Stats
 ![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohanjaswal8&show_icons=true&theme=radical)
