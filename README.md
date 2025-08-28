@@ -58,6 +58,11 @@
 </p>
 
 
+<h2>Rohan's GitHub Stats </h2> 
+
+### Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=Rohanjaswal8&theme=radical)
+
 # GitHub Stats
 ![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohanjaswal8&show_icons=true&theme=radical)
 
